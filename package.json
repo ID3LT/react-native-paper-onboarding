@@ -21,7 +21,7 @@
     "android",
     "reanimated"
   ],
-  "repository": "https://github.com/gorhom/react-native-paper-onboarding",
+  "repository": "https://github.com/ID3LT/react-native-paper-onboarding",
   "author": "Mo Gorhom (https://gorhom.dev)",
   "license": "MIT",
   "bugs": {
@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "react-native-redash": "^14.2.4",
-    "react-native-svg": "^12.1.1"
+    "react-native-redash": "^18.1.2",
+    "react-native-svg": "^14.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
@@ -57,21 +57,21 @@
     "eslint-plugin-prettier": "^3.4.0",
     "husky": "^4.2.5",
     "prettier": "^2.3.1",
-    "react": "~16.9.0",
-    "react-native": "~0.61.5",
-    "react-native-builder-bob": "^0.18.1",
-    "react-native-gesture-handler": "^1.10.3",
-    "react-native-reanimated": "^1.13.3",
-    "react-native-svg": "^12.1.1",
+    "react": "~18.0.0",
+    "react-native": "~0.64.0",
+    "react-native-builder-bob": "^0.23.2",
+    "react-native-gesture-handler": "^2.14.0",
+    "react-native-reanimated": "^3.6.1",
+    "react-native-svg": "^14.1.0",
     "release-it": "^14.9.0",
     "typescript": "^3.3.2"
   },
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "^1.10.3",
-    "react-native-reanimated": "^1.13.3",
-    "react-native-svg": "^12.1.1"
+    "react-native-gesture-handler": "^2.14.0",
+    "react-native-reanimated": "^3.6.1",
+    "react-native-svg": "^14.1.0"
   },
   "husky": {
     "hooks": {
